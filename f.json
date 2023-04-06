@@ -1,0 +1,15 @@
+{
+"FristName":"Sumit",
+
+"LastName":"Yadav",
+
+"Age":17,
+
+"Gender":"Male",
+
+"Address":[["Village:Chackgosai","Post:Mondh","District:Bhadohi","PinCode:221406"],
+
+["Highschool",2020,"Intermediate",2022,"Graduation:Pursuing"],
+
+["Highschool :65%", "Intermediate:55%"]]
+}
